@@ -1,0 +1,6 @@
+argcomplete
+mako
+numpy
+pyelftools
+six
+torch
